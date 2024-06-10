@@ -4,7 +4,7 @@
 #### The project is based on a real-world Gilead Sciences' oncology dataset, consisting of Breast Cancer patient data, demographic data and air quality data
 #### It includes:
 1. [Data Cleaning and Missing Values Imputation using ML](https://github.com/anopsy/equity_healthcare/blob/main/ml-for-missing-values.ipynb)
-2. [Experimenting with models](https://github.com/anopsy/equity_healthcare/blob/main/eda_voting.ipynb) 
+2. [Experimenting with models/ code refactoring](https://github.com/anopsy/equity_healthcare/blob/main/eda_voting.ipynb) 
 
 #### What I could improve in eda_voting.ipynb:
 1. Rotate labels in the plots
